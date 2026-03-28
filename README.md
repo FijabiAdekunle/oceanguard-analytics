@@ -1,5 +1,5 @@
 # 🌊 OceanGuard Analytics
-[![Ocean_Guard_poster.png](https://i.postimg.cc/4323drgt/Ocean_Guard_poster.png)](https://postimg.cc/zLWN223X)
+[![Ocean-Guard-poster2.png](https://i.postimg.cc/MTzY6fzV/Ocean-Guard-poster2.png)](https://postimg.cc/d7SCn1kV)
 ### Maritime Accident Prevention Intelligence Platform
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://oceanguard-analytics-egg7zqwswgdmzrnybexkbj.streamlit.app/)
